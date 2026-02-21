@@ -39,3 +39,17 @@ The performance of the model is monitored using:
 1. **Categorical Cross-Entropy Loss:** Calculates the logarithmic loss between the predicted probabilities and the true one-hot encoded labels.
 2. **Accuracy:** The percentage of correctly predicted images out of the total images in the batch/dataset (Tracks both Training Accuracy and Test Accuracy). 
 *The model achieves a final Test Accuracy of ~94.7%.*
+<img width="940" height="312" alt="image" src="https://github.com/user-attachments/assets/a3417325-56f5-48be-a808-9c68b1139ba4" />
+<img width="940" height="307" alt="image" src="https://github.com/user-attachments/assets/ddd6e5b4-93fd-4acf-b878-40c87a26bfeb" />
+<img width="940" height="336" alt="image" src="https://github.com/user-attachments/assets/631824c5-4c50-4a4b-8f0d-a2a694199b45" />
+Model Training loss curve:
+<img width="940" height="422" alt="image" src="https://github.com/user-attachments/assets/9cbd9f01-ddfd-4996-8974-629287f0f883" />
+
+<img width="895" height="160" alt="image" src="https://github.com/user-attachments/assets/2d2d00d0-e101-4456-b7da-823a6ede6957" />
+
+Model Final Train and Test Accuracy: 
+<img width="940" height="381" alt="image" src="https://github.com/user-attachments/assets/41ca4226-bdd8-4c7b-992d-991dd52ffb14" />
+<img width="940" height="225" alt="image" src="https://github.com/user-attachments/assets/64d7fbd1-043c-414a-bb1a-e1cf46fe02d6" />
+
+
+
