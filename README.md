@@ -39,5 +39,3 @@ The performance of the model is monitored using:
 1. **Categorical Cross-Entropy Loss:** Calculates the logarithmic loss between the predicted probabilities and the true one-hot encoded labels.
 2. **Accuracy:** The percentage of correctly predicted images out of the total images in the batch/dataset (Tracks both Training Accuracy and Test Accuracy). 
 *The model achieves a final Test Accuracy of ~94.7%.*
-
-Instructions to Run the Project
